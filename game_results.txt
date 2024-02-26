@@ -1,0 +1,5 @@
+Game Results:
+Total Rounds: 0
+Total Enemy kill count: 0
+Health left of the last Enemy: 0
+Game Over: 
